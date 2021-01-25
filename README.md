@@ -4,7 +4,7 @@
 
 * Dataset: [BSDS300](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/segbench/BSDS300-images.tgz) (Train: 180, Validation: 20, Test: 100)
 
-* Preprocessing:  `transforms.Resize(crop_size//2)`
+* Image preprocessing:  `transforms.Resize(crop_size//2)`
 
 * Architecture of entire network
 
