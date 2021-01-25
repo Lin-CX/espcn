@@ -42,6 +42,6 @@ You can set the parameter as follow:
 |          Input          |          Bicubic          |
 | :---------------------: | :-----------------------: |
 |  ![input](./input.jpg)  | ![bicubic](./bicubic.png) |
-|         Output          |           Label           |
+|       **Output**        |         **Label**         |
 | ![output](./output.jpg) |   ![label](./label.jpg)   |
 
